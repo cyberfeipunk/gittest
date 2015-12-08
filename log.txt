@@ -3,3 +3,4 @@ this is log file
 10:19 logger
 10:46 logger
 11:46 logger on branch dev
+11:54 logger on master dev
