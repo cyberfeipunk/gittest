@@ -1,4 +1,7 @@
 this is log file
+14:45 bug002修改前修改
+14:41 这里有一个bug修改了，是在bug-001分支上修改的
+14:39 logger on dev stash
 13:57 logger on branch dev
 10:14 logger
 10:19 logger
@@ -6,3 +9,6 @@ this is log file
 11:46 logger on branch dev
 11:54 logger on master dev
 11:52 logger on branch feature1
+这是bug003的修改内容
+14:47 这是bug003修改前修改的
+
