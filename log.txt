@@ -7,5 +7,9 @@ this is log file
 10:19 logger
 10:46 logger
 11:46 logger on branch dev
+<<<<<<< Updated upstream
 
 这是bug003的修改内容
+=======
+14:47 这是bug003修改前修改的
+>>>>>>> Stashed changes
