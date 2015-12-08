@@ -1,4 +1,5 @@
 this is log file
+14:41 这里有一个bug修改了，是在bug-001分支上修改的
 13:57 logger on branch dev
 10:14 logger
 10:19 logger
