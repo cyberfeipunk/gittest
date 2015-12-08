@@ -1,4 +1,5 @@
 this is log file
+13:57 logger on branch dev
 10:14 logger
 10:19 logger
 10:46 logger
